@@ -1,3 +1,6 @@
 1.Mobiles 
 2.Laptops
 3.Electronic Devices
+4.Charger
+5.Car 
+6.Computer
