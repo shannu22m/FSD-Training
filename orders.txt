@@ -1,0 +1,4 @@
+1.MObiles - 1
+2.Laptops - 2
+3.Car - 1
+4.Computer - 3
